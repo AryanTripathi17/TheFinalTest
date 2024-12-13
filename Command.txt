@@ -1,0 +1,8 @@
+git init
+git add MyFile.txt
+git status
+git add info/
+git config user.name
+git configu user.name "AryanTripathi_INFO"
+git commit -m "I added some folder and changed my username as instructed and updated command file."
+git add Command.txt
