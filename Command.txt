@@ -2,7 +2,14 @@ git init
 git add MyFile.txt
 git status
 git add info/
+Q5:
 git config user.name
 git configu user.name "AryanTripathi_INFO"
 git commit -m "I added some folder and changed my username as instructed and updated command file."
 git add Command.txt
+Q6:
+I added Course name and code. I added command.txt.
+I learnt how to commit changes and change the username and add files.
+Q7.
+I modified some files.
+git remote add origin https://github.com/AryanTripathi17/TheFinalTest.git
